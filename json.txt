@@ -4,8 +4,6 @@
 		"keyword": "test_carrusel1" 
 	}, 
 	"carrousel-2": {
-		"title": "El mejor verano", 
-		"keyword": "test_carrusel2" 
 	}, 
 	"carrousel-3": {
 		"title": "Para tu cocina", 
