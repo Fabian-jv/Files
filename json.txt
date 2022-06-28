@@ -1,7 +1,6 @@
 {
 	"carrousel-1": { 
-		"title": "DÃ­a del padre", 
-		"keyword": "test_carrusel1" 
+		
 	}, 
 	"carrousel-2": {
 	}, 
