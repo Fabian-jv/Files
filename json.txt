@@ -7,7 +7,7 @@
 		
 	}, 
 	"carrousel-3": {
-		"title": "Spaguetti y tocino", 
+		"title": "Spaguetti", 
 		"keyword": "RecetaSpaguettiTocino" 
 	} 
 } 
