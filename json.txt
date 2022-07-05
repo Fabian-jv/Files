@@ -1,11 +1,12 @@
 {
 	"carrousel-1": { 
-		
+		"title": "Hot Sale", 
+		"keyword": "Refresco" 
 	}, 
 	"carrousel-2": {
 	}, 
 	"carrousel-3": {
-		"title": "Para tu cocina", 
-		"keyword": "test_carrusel3" 
+		"title": "Spaguetti", 
+		"keyword": "RecetaSpaguettiTocino" 
 	} 
 } 
