@@ -1,13 +1,13 @@
 {
 	"carrousel-1": { 
-		"title": "Hot Sale", 
-		"keyword": "Refresco" 
+		"title": "Cocacola", 
+		"keyword": "coca" 
 	}, 
 	"carrousel-2": {
-		"title": "Spaguetti", 
-		"keyword": "RecetaSpaguettiTocino" 
+		
 	}, 
 	"carrousel-3": {
-		
+		"title": "Spaguetti", 
+		"keyword": "RecetaSpaguettiTocino" 
 	} 
 } 
