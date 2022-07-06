@@ -1,7 +1,7 @@
 {
 	"carrousel-1": { 
 		"title": "Cocacola", 
-		"keyword": "coca" 
+		"keyword": "leche" 
 	}, 
 	"carrousel-2": {
 		
