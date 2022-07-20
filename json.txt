@@ -1,13 +1,1 @@
-{
-	"carrousel-1": { 
-		"title": "Cocacola", 
-		"keyword": "leche" 
-	}, 
-	"carrousel-2": {
-		
-	}, 
-	"carrousel-3": {
-		"title": "Spaguetti y tocino", 
-		"keyword": "lkndasknkdnaskjdna" 
-	} 
-} 
+
